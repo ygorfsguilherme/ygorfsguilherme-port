@@ -1,0 +1,27 @@
+.menu {
+    margin-bottom: 1rem;
+}
+
+.btn__view {
+    height: 40px;
+    width: 100px;
+    margin-right: 0.5rem;
+    background-color: var(--color-gray);
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+
+.btn__view:hover {
+    background-color: var(--color-gray-75);
+}
+
+.btn__view:active {
+    background-color: var(--color-blue);
+}
+
+.btn__view.active {
+    background-color: var(--color-blue);
+}
+
+

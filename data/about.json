@@ -1,0 +1,16 @@
+{
+    "about":{
+        "name": "Ygor Guilherme",
+        "description": "Atualmente, sou estudante de Ciência da Computação na Faculdade Estácio de Sá e possuo experiência no programa de aprendizado ONE - Oracle Next Education e Alura. Após concluir o programa, fui convidado a atuar como ONEHelper na comunidade da Turma 3, onde auxiliei motivando e passando conhecimentos no aprendizado dos alunos. Meus conhecimentos estão voltados para a área de desenvolvimento de software, com ênfase no desenvolvimento web. Possuo experiência em tecnologias como Java, Spring Boot, React, HTML, CSS, JavaScript, TypeScript, MySQL, Git, Gitflow, GitHub, Docker, entre outras.",
+        "quota": {
+            "text": "Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.",
+            "author": "Martin Fowler"
+        },
+
+        "redeSocial": {
+            "linkedin": "https://www.linkedin.com/in/ygorfsguilherme/",
+            "discord": "https://discordapp.com/users/Ygor%20Guilherme#3911",
+            "github": "https://github.com/ygorfsguilherme"
+        }
+    }
+}

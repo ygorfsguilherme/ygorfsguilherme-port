@@ -1,0 +1,41 @@
+{
+    "graduation":[
+        {
+            "school":"Estácio de Sá",
+            "dateStart": "02/2023",
+            "dateEnd":"Atualmente",
+            "course":"Bacharel em Ciência da Computação"
+        }
+    ],
+
+    "certification": [
+        {
+            "school":"Oracle University",
+            "dateStart": "",
+            "dateEnd":"2022",
+            "course":"Oracle Cloud Infrastructure Foundations 2022 Certified Associate" 
+        }
+    ],
+    "course": [
+        {
+            "school":"Alura",
+            "dateStart": "",
+            "dateEnd":"2022",
+            "course":"React com Typescript" 
+        },
+        {
+            "school":"Alura",
+            "dateStart": "",
+            "dateEnd":"2022",
+            "course":"Spring Framework" 
+        },
+        {
+            "school":"Alura",
+            "dateStart": "",
+            "dateEnd":"2022",
+            "course":"Design Patterns" 
+        }
+    ]
+
+
+}

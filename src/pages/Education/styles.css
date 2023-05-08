@@ -1,0 +1,8 @@
+.education__section{
+    display: none;
+    flex-wrap: wrap;
+}
+
+.education__section.active{
+    display: flex;
+}

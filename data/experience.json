@@ -1,0 +1,20 @@
+{
+    "works": [
+        {
+            "enterprise": "Alura - Comunidade ONE",
+            "positionHeld": "ONEHelper",
+            "dateStart": "07/2022",
+            "dateEnd": "10/2022",
+            "description": "ONE Helper na comunidade ONE - Oracle Next Education e Alura, no âmbito de ajudar, motiva e passar o conhecimento voltado à área de programação.",
+            "imageIcon": "/images/alura_logo.png"
+        },
+        {
+            "enterprise": "Mais1Code",
+            "positionHeld": "Instrutor Voluntário",
+            "dateStart": "02/2023",
+            "dateEnd": "Atualmente",
+            "description": "Instruindo no conhecimento de programação em lógica de programação, front end e back end",
+            "imageIcon": "/images/mais1code_logo.png"
+        }
+    ]
+}
