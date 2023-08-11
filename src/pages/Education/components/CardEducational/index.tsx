@@ -26,7 +26,7 @@ function CardEducational(
 
         <span className='education__section__faixa'></span>
 
-        <img className='education__section__medal' width='40' src="/public/icons/medal.png" alt="" />
+        <img className='education__section__medal' width='40' src="/icons/medal.png" alt="" />
     </div>
   )
 }
