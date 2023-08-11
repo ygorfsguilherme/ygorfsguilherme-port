@@ -18,6 +18,7 @@ function Project() {
                     <CardProject 
                         image={project.image}
                         github_link={project.github_link}
+                        view_app={project.view_app}
                         title={project.title} 
                         description={project.description} 
                     />

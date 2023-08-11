@@ -6,7 +6,7 @@
       "title": "Encut",
       "description": "Encut é um encutador de url, para facilitar a memorização, digitação e entre outros fatores que uma url menor pode proporcionar.",
       "github_link": "https://github.com/ygorfsguilherme/encut",
-      "view_app": ""
+      "view_app": null
     },
     {
       "image":
@@ -15,7 +15,7 @@
       "description":
         "É um codificador de texto, a sua utilização é fazer com que frases seja indecifrável.",
       "github_link": "https://github.com/ygorfsguilherme/criptdex",
-      "view_app": ""
+      "view_app": null
     },
   
     {
@@ -24,7 +24,7 @@
       "title": "Jogo da forca",
       "description": "Um simples jogo da forca, onde você pode tentar adivinhar uma palavra.",
       "github_link": "https://github.com/ygorfsguilherme/jogo-da-forca",
-      "view_app": ""
+      "view_app": null
     }, 
     {
       "image":"/images/project-portfolio-lilita.png",
@@ -40,7 +40,7 @@
       "description":
         "É um conversor de moeda sendo possivel converter para alguns tipos de moeda como dólar e real.",
       "github_link": "https://github.com/ygorfsguilherme/gmoney-conversor",
-      "view_app": ""
+      "view_app": null
     },
     {
       "image":
@@ -49,7 +49,7 @@
       "description":
         "É um aplicação para gerenciar cadastro de clientes do Alura Hotel.",
       "github_link": "https://github.com/ygorfsguilherme/AluraHotel",
-      "view_app": ""
+      "view_app": null
     }
   ]
 }

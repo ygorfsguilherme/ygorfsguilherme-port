@@ -29,7 +29,7 @@
 
 .card__project__button {
   display: flex;
-  flex-direction: column;
+  flex-direction: row-reverse;
   position: absolute;
   align-items: end;
   padding: 5px;
